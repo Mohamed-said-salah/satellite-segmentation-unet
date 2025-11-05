@@ -1,7 +1,7 @@
 # Satellite Segmentation with U-Net (PyTorch)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/YOUR_USERNAME/satellite-segmentation-unet/blob/main/notebooks/main.ipynb
+https://colab.research.google.com/drive/1HSeLR_xZCZhmE20Kxcc5DEAnGmTfTPod?usp=sharing
 )
 
 Semantic segmentation of satellite imagery using a compact U-Net.  
